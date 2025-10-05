@@ -72,7 +72,7 @@ Atualmente, também sou estudante de **Desenvolvimento de Software Multiplatafor
 
 ---
 
-<span style="color: rgba(0, 0, 0, 0.5);">"Desistir não faz acelerar o processo."</span>
+"𝔻𝕖𝕤𝕚𝕤𝕥𝕚𝕣 𝕟𝕒̃𝕠 𝕗𝕒𝕫 𝕒𝕔𝕖𝕝𝕖𝕣𝕒𝕣 𝕠 𝕡𝕣𝕠𝕔𝕖𝕤𝕤𝕠."
 
 
 
