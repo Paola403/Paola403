@@ -67,8 +67,7 @@ Atualmente, também sou estudante de **Desenvolvimento de Software Multiplatafor
 
 ---
 
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/paola-gabriele-de-oliveira-857430312" alt="LinkedIn"/></a>
+<a href="https://br.linkedin.com/in/paola-gabriele-de-oliveira-857430312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
