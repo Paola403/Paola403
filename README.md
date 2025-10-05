@@ -1,5 +1,7 @@
 ## Olá, meu nome é Paola!
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 Sou Desenvolvedora de Software Júnior, atuando com foco em sistemas de varejo, especialmente no back-end. Tenho experiência com Delphi e SQL Server, além de interesse crescente pela técnologia.  
 Atualmente, também sou estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Araras**, onde venho aprimorando meus conhecimentos técnicos e acadêmicos.
 
