@@ -20,7 +20,7 @@ Atualmente, também sou estudante de **Desenvolvimento de Software Multiplatafor
 
 - **Back-end:** Delphi (profissional), Java, Python  
 - **Banco de dados:** SQL Server (trabalho), MySQL (faculdade)  
-- **Ferramentas:** Visual Studio Code, Delphi IDE, SQL Server Management Studio, Git, GitHub
+- **Ferramentas:** Visual Studio Code, Delphi IDE, SQL Server Management Studio, MySQL
 
 ---
 
@@ -68,7 +68,7 @@ Atualmente, também sou estudante de **Desenvolvimento de Software Multiplatafor
 ---
 
 <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/paola-gabriele-de-oliveira-857430312?trk=people-guest_people_search-card" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/paola-gabriele-de-oliveira-857430312" alt="LinkedIn"/></a>
 
 ---
 
