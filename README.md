@@ -14,6 +14,7 @@ Atualmente, também sou estudante de **Desenvolvimento de Software Multiplatafor
 - Estudante na FATEC Araras – Desenvolvimento de Software Multiplataforma  
 - Familiaridade com lógica de programação, modelagem de dados e versionamento
 
+---
 
 ## 🎯 Atualmente focada em:
 
