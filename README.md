@@ -1,5 +1,44 @@
 ## Olá, meu nome é Paola!
 
+Sou Desenvolvedora de Software Júnior, atuando com foco em sistemas de varejo, especialmente no back-end. Tenho experiência com Delphi e SQL Server, além de interesse crescente pela técnologia.  
+Atualmente, também sou estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Araras**, onde venho aprimorando meus conhecimentos técnicos e acadêmicos.
+
+---
+
+## 🎓 Competências e Formação
+
+- Desenvolvedora Júnior em sistemas de gestão para o varejo  
+- Experiência com manutenção de sistemas legados  
+- Estudante na FATEC Araras – Desenvolvimento de Software Multiplataforma  
+- Familiaridade com lógica de programação, modelagem de dados e versionamento
+
+---
+
+## 🎯 Atualmente focada em:
+
+- **Back-end:** Delphi (profissional), Java, Python  
+- **Banco de dados:** SQL Server (trabalho), MySQL (faculdade)  
+- **Ferramentas:** Visual Studio Code, Delphi IDE, SQL Server Management Studio, Git, GitHub
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="30" alt="Delphi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
+</p>
+
+---
+
+<a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/paola-gabriele-de-oliveira" alt="LinkedIn"/></a>
+
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -30,6 +69,7 @@
 </table>
 
 --- 
+"Desistir não faz acelerar o processo."
 
 
 
