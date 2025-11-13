@@ -1,6 +1,6 @@
 ## Olá, meu nome é Paola!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300x" align="right">
 
 Sou Desenvolvedora de Software Júnior, atuando com foco em sistemas de varejo, especialmente no back-end. Tenho experiência com Delphi e SQL Server, além de interesse crescente pela técnologia.  
 Atualmente, também sou estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Araras**, onde venho aprimorando meus conhecimentos técnicos e acadêmicos.
@@ -51,14 +51,6 @@ Atualmente, também sou estudante de **Desenvolvimento de Software Multiplatafor
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paola403&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Paola403&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
