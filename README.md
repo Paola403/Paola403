@@ -38,8 +38,24 @@ Atualmente, também sou estudante de **Desenvolvimento de Software Multiplatafor
 
 ### ⚙️ GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paola403&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Paola403&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paola403&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table
 ---
 
 <a href="https://br.linkedin.com/in/paola-gabriele-de-oliveira-857430312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
