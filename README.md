@@ -2,24 +2,25 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="250px" width="250x" align="right">
 
-Sou Desenvolvedora de Software Júnior, atuando com foco em sistemas de varejo, especialmente no back-end. Tenho experiência com Delphi e SQL Server, além de interesse crescente pela técnologia.  
+Sou Desenvolvedora de Software com experiência em sistemas de varejo, atuando principalmente no back-end. Trabalhei com Delphi e SQL Server, além de interesse crescente pela técnologia.  
 Atualmente, também sou estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Araras**, onde venho aprimorando meus conhecimentos técnicos e acadêmicos.
 
 ---
 
 ## 🎓 Competências e Formação
 
-- Desenvolvedora Júnior em sistemas de gestão para o varejo  
-- Experiência com manutenção de sistemas legados  
-- Estudante na FATEC Araras – Desenvolvimento de Software Multiplataforma  
+- Experiência como Desenvolvedora Júnior em sistemas de gestão para o varejo
+- Atuação com manutenção e suporte a sistemas legados
+- Formada em Desenvolvimento de Sistemas - ETEC Deputado Salim Sedeh
+- Estudante na FATEC Araras – Desenvolvimento de Software Multiplataforma
 - Familiaridade com lógica de programação, modelagem de dados e versionamento
 
 ---
 
 ## 🎯 Atualmente focada em:
 
-- **Back-end:** Delphi (profissional), Java, Python  
-- **Banco de dados:** SQL Server (trabalho), MySQL (faculdade)  
+- **Back-end:** Delphi, Java, Python  
+- **Banco de dados:** SQL Server, MySQL 
 - **Ferramentas:** Visual Studio Code, Delphi IDE, SQL Server Management Studio, MySQL
 
 ---
