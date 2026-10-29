@@ -4,7 +4,7 @@ import Desenvolvedor from "Paola403";
 class SobreMim extends Desenvolvedor {
   nome = "Paola Gabriele de Oliveira";
   area = "Backend";
-  local = "Leme - SP;
+  local = "Leme - SP";
 }
 
 class Skills extends Desenvolvedor {
