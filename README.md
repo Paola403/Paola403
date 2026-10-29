@@ -1,66 +1,14 @@
-## Olá, meu nome é Paola!
+```js
+import Desenvolvedor from "Paola403";
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="250px" width="250x" align="right">
+class SobreMim extends Desenvolvedor {
+  nome = "Paola Gabriele de Oliveira";
+  area = "Backend";
+  local = "Leme - SP;
+}
 
-Sou Desenvolvedora de Software com experiência em sistemas de varejo, atuando principalmente no back-end. Trabalhei com Delphi e SQL Server, além de interesse crescente pela técnologia.  
-Atualmente, também sou estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Araras**, onde venho aprimorando meus conhecimentos técnicos e acadêmicos.
-
----
-
-## 🎓 Competências e Formação
-
-- Experiência como Desenvolvedora Júnior em sistemas de gestão para o varejo
-- Atuação com manutenção e suporte a sistemas legados
-- Formada em Desenvolvimento de Sistemas - ETEC Deputado Salim Sedeh
-- Estudante na FATEC Araras – Desenvolvimento de Software Multiplataforma
-- Familiaridade com lógica de programação, modelagem de dados e versionamento
-
----
-
-## 🎯 Atualmente focada em:
-
-- **Back-end:** Delphi, Java, Python  
-- **Banco de dados:** SQL Server, MySQL 
-- **Ferramentas:** Visual Studio Code, Delphi IDE, SQL Server Management Studio, MySQL
-
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" height="50" alt="Delphi"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
-</p>
-
----
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Paola403&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paola403&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table
----
-
-<a href="https://br.linkedin.com/in/paola-gabriele-de-oliveira-857430312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
----
-
-"𝔻𝕖𝕤𝕚𝕤𝕥𝕚𝕣 𝕟𝕒̃𝕠 𝕗𝕒𝕫 𝕒𝕔𝕖𝕝𝕖𝕣𝕒𝕣 𝕠 𝕡𝕣𝕠𝕔𝕖𝕤𝕤𝕠."
+class Skills extends Desenvolvedor {
+  linguagens = ["Java, Python"];
+  frameworks = ["Spring / Spring Boot, Django"];
+}
+```
